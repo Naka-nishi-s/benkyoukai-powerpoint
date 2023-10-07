@@ -1,5 +1,5 @@
 # benkyoukai-powerpoint
-勉強会用のパワポをnpmで管理してみた
+勉強会用の資料をnpmで管理してみた
 
 ## 使い方
 0. nodeとnpmをインストール（[こちら](https://nodejs.org/ja)から）
