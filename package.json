@@ -1,0 +1,19 @@
+{
+  "name": "benkyoukai-siryou",
+  "version": "1.0.0",
+  "description": "勉強会用のスライドをnpmで管理してみた",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naka-nishi-s/benkyoukai-powerpoint.git"
+  },
+  "author": "Nakanishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naka-nishi-s/benkyoukai-powerpoint/issues"
+  },
+  "homepage": "https://github.com/Naka-nishi-s/benkyoukai-powerpoint#readme"
+}
